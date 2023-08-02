@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Vasco Magolo</b>
+        </samp>
+</h3>
+<br>
 <!--
 **VascoMagolo/VascoMagolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
