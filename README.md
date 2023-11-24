@@ -12,3 +12,4 @@
 - 💬 Ask me about IoT with LoRaWan
 - 📫 How to reach me: <a src='vascomagolo@gmail.com'>Send Email</a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vascomagolo)](https://github.com/anuraghazra/github-readme-stats)
