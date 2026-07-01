@@ -7,7 +7,7 @@
 
 I'm currently pursuing a Bachelor's degree in **Telecommunications and Informatics Engineering** at **ISEP** (Instituto Superior de Engenharia do Porto).
 
-I enjoy building full-stack and mobile applications, and I'm always exploring new tools across the web, backend, and DevOps space.
+I enjoy building full-stack and mobile applications, and I'm always exploring new tools across the web, backend, and IoT space.
 
 ## 🌐 Connect with me
 
